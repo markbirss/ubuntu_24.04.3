@@ -10,3 +10,20 @@ rm -fr .git
 
 rm -f ubuntu_24.04.3.7z.*
 ```
+
+```
+includes:
+
+luckfox-config
+adbd
+linux-headers-6.1.99
+aic800 wifi driver and firmware
+build-essential
+git
+make
+cmake
+neofetch
+btop
+
+linux-firmware deb
+```
